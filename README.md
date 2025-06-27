@@ -2,6 +2,7 @@
 
 ## 폴더 구조
 
+```
 /src
 ├── app # Next.js 13+ App Router 기준
 │ ├── page.tsx # 메인 페이지 (필터 입력)
@@ -39,3 +40,4 @@
 └── styles
 ├── globals.css
 └── tailwind.config.js
+```
